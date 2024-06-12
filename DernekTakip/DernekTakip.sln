@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DernekUI", "DernekUI\DernekUI.csproj", "{3B769B75-0332-4602-97A4-749A35450413}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{E8E2BF0E-61AF-468D-846E-E7DC825188EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessService", "BusinessService\BusinessService.csproj", "{038564E4-DAFA-459E-A528-44A114623D9C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupDernekTakip", "..\..\SetupDernekTakip\SetupDernekTakip\SetupDernekTakip.vdproj", "{F691D12C-4757-471F-934A-592C1F12A8DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B769B75-0332-4602-97A4-749A35450413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B769B75-0332-4602-97A4-749A35450413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B769B75-0332-4602-97A4-749A35450413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B769B75-0332-4602-97A4-749A35450413}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8E2BF0E-61AF-468D-846E-E7DC825188EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8E2BF0E-61AF-468D-846E-E7DC825188EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8E2BF0E-61AF-468D-846E-E7DC825188EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8E2BF0E-61AF-468D-846E-E7DC825188EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{038564E4-DAFA-459E-A528-44A114623D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{038564E4-DAFA-459E-A528-44A114623D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{038564E4-DAFA-459E-A528-44A114623D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{038564E4-DAFA-459E-A528-44A114623D9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F691D12C-4757-471F-934A-592C1F12A8DF}.Debug|Any CPU.ActiveCfg = Debug
+		{F691D12C-4757-471F-934A-592C1F12A8DF}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98EE23A9-8997-442C-B6F8-AB9514B22209}
+	EndGlobalSection
+EndGlobal
