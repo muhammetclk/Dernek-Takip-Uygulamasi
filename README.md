@@ -2,6 +2,22 @@
 # Dernek Takip Uygulaması
 # Muhammet Çelik
 
+
+## Dernek takip programında olması gerekenler
+- Üye ekleme (TC kimlik primary key ve unique olacak) - Kan grubuna göre üye listeleme
+- Şehre göre üye listeleme
+- Duruma göre (aktif/pasif) üye görüntüleme
+- Üye aktif/pasif durumunu belirleme
+- Aylara göre aidat belirleme (istenmesi durumunda her ay farklı aidat belirlenebilir) - Aidat ödeme durumlarının her bir üye için görüntülenmesi - Borcu olanların listelenmesi ve pdf olarak kaydedilebilmesi - Borcu olanlara tek bir butona basılarak otomatik bilgilendirme e-postası gönderilmesi - Gönderilecek olan e-posta içeriğinin istenildiği gibi ayarlanıp kullanılabilmesi - Tarihler arası derneğe ödeme yapanların ve yapmayanların listelenmesi - Aidat gelirlerinin aylık ve yıllık bazda grafiksel gösterimi (zedgraph componenti kullanılacak) - Şehirlere göre üye dağılımlarının grafiksel gösterimi (zedgraph componenti kullanılacak) - Install shield programı ile uygulamanın bilgisayara kurulum dosyasının (setup, install dosyası)
+oluşturularak programın bilgisayara kurulumunun sağlanması
+
+
+
+
+
+
+
+
 # 1-Veritabanı Tasarımı
 	Bu kısımda Access veritabanında hangi İsimlendirmeyle hangi tabloları ve verileri oluşturacağımıza bakıyoruz.
  ![image](https://github.com/muhammetclk/Dernek-Takip-Uygulamasi/blob/main/DernekTakip/resimler/1-veritabani-tablolar.png)
