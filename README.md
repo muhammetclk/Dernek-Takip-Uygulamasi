@@ -197,6 +197,7 @@ Debts formumuzda, aktif olan üyelerin borç bilgilerini görüntülüyoruz. Bu 
 ## Kan Grubuna Göre Üye Listeleme
 
   ![image](https://github.com/muhammetclk/Dernek-Takip-Uygulamasi/blob/main/DernekTakip/resimler/32.png)
+  
 **Şekil 32: Kan Grubuna Göre Listeleme**
 
 	Şekil 32 de seçtiğimiz kan grubuna göre üyeler listeleniyor.
