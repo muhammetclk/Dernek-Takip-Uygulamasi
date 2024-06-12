@@ -20,7 +20,11 @@
 
 # 1-Veritabanı Tasarımı
 	Bu kısımda Access veritabanında hangi İsimlendirmeyle hangi tabloları ve verileri oluşturacağımıza bakıyoruz.
- ![image](https://github.com/muhammetclk/Dernek-Takip-Uygulamasi/blob/main/DernekTakip/resimler/1-veritabani-tablolar.png)
+ <div style="text-align: center;">
+  <img src="https://github.com/muhammetclk/Dernek-Takip-Uygulamasi/blob/main/DernekTakip/resimler/1-veritabani-tablolar.png" alt="Veritabanı Tabloları" />
+  <br />
+  <strong>Şekil 1: Tablolar</strong>
+</div>
 **Şekil 1: Tablolar**
 
 	Veritabanı olarak Access veritabanını kullanıyoruz. Access dosyasının ismi olarak DernekTakip isimlendirmesini kullanıyoruz. Şekil 1 de görülen tablo isimlendirmelerini kullanarak tablolarımızı oluşturuyoruz. 
